@@ -2,7 +2,7 @@ Bayes' Theorem: P(A|B) = P(B|A)P(A)/P(B)
 
 I learnt Bayes Theorem long back but i forgot
 
-Useful for empirical solutions to probability problems
+Quite useful for empirical solutions to probability problems
 
 [Daddy, but where do priors come from](priors/priors.md)?
 
